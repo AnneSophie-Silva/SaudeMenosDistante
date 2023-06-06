@@ -1,18 +1,12 @@
 # SaudeMenosDistante
 
-Aplicação para computador.<br>
-
-Criar aplicação para um projeto de saúde “Saúde Menos Distante” onde se vai registar informação de saúde das pessoas e avaliar o risco cardiovascular das populações.<br>
-
+Criar aplicação para computador, para um projeto de saúde “Saúde Menos Distante” onde se vai registar informação de saúde das pessoas e avaliar o risco cardiovascular das populações.<br>
 As equipas deste projeto - equipa constituídas por médicos, enfermeiros, motoristas e administrativos - irão deslocar-se a vários concelhos. <br>
-
 A cada equipa é atribuído um concelho do país para consultas na comunidade: os concelhos são definidos pela DGS mediante avaliações anteriores do perfil de saúde da população de determinado concelho. <br>
-
 Cada equipa é entregue um conjunto de equipamentos para que possam executar as suas consultas (e.g. viaturas ligeiras, viaturas de rastreio ambulante, estetoscópios, esfigmomanômetros, tiras de avaliação de colesterol e glicose).<br>
 
- 
-
-Desenvolva uma aplicação capaz de gerir a atividade das diferentes equipas de consultas comunitárias. A aplicação deve evidenciar as seguintes funcionalidades: <br>
+A aplicação deve ser capaz de gerir a atividade das diferentes equipas de consultas comunitárias. <br>
+A aplicação deve evidenciar as seguintes funcionalidades: <br>
 
 • Gerar um relatório de colaboradores apresentando o seu nome e vencimento com agrupamento pela respetiva equipa; <br>
 
@@ -26,4 +20,4 @@ Desenvolva uma aplicação capaz de gerir a atividade das diferentes equipas de 
 
 • Outras que considere necessárias ou relevantes para a valorização da aplicação. <br>
 
-Atenda aos princípios defendidos pelo Regulamento Geral de Proteção de Dados (RGPD).<br>
+
